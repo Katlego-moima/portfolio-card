@@ -24,13 +24,27 @@ Feel free to adjust the styles as needed to match your design preferences.
 
 To run this code, you'll need to have a React environment set up. You can follow these steps:
 
-Make sure you have Node.js installed.
+1. Make sure you have Node.js installed.
 
-Create a new React application or use an existing one.
+2. Create a new React application or use an existing one.
 
-Copy and paste the code into your React project.
+3. Copy and paste the code into your React project.
 
-Ensure you have the required dependencies and CSS stylesheets set up.
+In the project directory, install the required dependencies using npm:
+
+```bash
+
+npm install
+
+```
+
+To install the dependencies
+
+After installing the dependencies, you can run your React application using the following command:
+
+```bash
+npm run start
+```
 
 Run your React application.
 
